@@ -1,0 +1,1 @@
+{"temperature":"46","humidity":"41","consumption":"56","illumination":"30","isHeating":"false","isCooling":"false","humanInRoom":"true","doorOpened":"false","targetTemp":"11","openedWithWrongCard":1644741580859,"moveWithLocked":1644761522786}
